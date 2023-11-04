@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorPicking/static/css/main.61208cb1.css",
+    "main.js": "/ColorPicking/static/js/main.5c31190f.js",
+    "static/js/787.9d31e9ec.chunk.js": "/ColorPicking/static/js/787.9d31e9ec.chunk.js",
+    "index.html": "/ColorPicking/index.html",
+    "main.61208cb1.css.map": "/ColorPicking/static/css/main.61208cb1.css.map",
+    "main.5c31190f.js.map": "/ColorPicking/static/js/main.5c31190f.js.map",
+    "787.9d31e9ec.chunk.js.map": "/ColorPicking/static/js/787.9d31e9ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61208cb1.css",
+    "static/js/main.5c31190f.js"
+  ]
+}
