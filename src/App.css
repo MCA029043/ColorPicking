@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.color-box{
+  height: 150px;
+  width: 150px;
+}
+.color-card{
+  margin: 0 15px;
+  box-shadow: 5px 9px 9px #888888;
+}
+.color-picker{
+  display: inline-flex;
+}

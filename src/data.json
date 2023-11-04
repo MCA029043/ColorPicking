@@ -1,0 +1,34 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "title": "FF0000",
+      "colorCode": "#FF0000",
+      "description": "Red"
+    },
+    {
+      "id": 2,
+      "title": "#0000FF",
+      "colorCode": "#0000FF",
+      "description": "Blue"
+    },
+    {
+      "id": 3,
+      "title": "#FF00FF",
+      "colorCode": "#FF00FF",
+      "description": "Magenta"
+    },
+    {
+        "id": 4,
+        "title": "#FFFF00",
+        "colorCode": "#FFFF00",
+        "description": "Yellow"
+      },
+      {
+        "id": 5,
+        "title": "#800080",
+        "colorCode": "#800080",
+        "description": "Purple"
+      }
+  ]
+}
